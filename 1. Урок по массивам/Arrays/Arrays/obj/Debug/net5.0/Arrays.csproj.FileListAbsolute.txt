@@ -1,0 +1,16 @@
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\bin\Debug\net5.0\Arrays.exe
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\bin\Debug\net5.0\Arrays.deps.json
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\bin\Debug\net5.0\Arrays.dll
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\bin\Debug\net5.0\Arrays.pdb
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\obj\Debug\net5.0\Arrays.dll
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\obj\Debug\net5.0\Arrays.pdb
+D:\Work\Coding skills\1. Урок по массивам\Arrays\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
